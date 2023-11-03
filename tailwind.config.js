@@ -7,9 +7,9 @@ module.exports = {
   ],
   theme: {
 
-    colors: {
-      'midnight': '#202020',
-    },
+    // colors: {
+    //   'midnight': '#202020',
+    // },
     extend: {},
   },
 
